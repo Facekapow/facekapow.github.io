@@ -1,0 +1,54 @@
+.grvsc-container {
+  counter-reset: grvsc-line-counter;
+  --grvsc-padding-left: calc(1.25em + var(--grvsc-padding-h));
+}
+
+.grvsc-container > code {
+  position: relative;
+}
+
+.grvsc-container > code::before {
+  height: calc(100% - var(--grvsc-padding-top));
+  width: calc(var(--grvsc-padding-left) - 0.5em);
+  content: '';
+  position: absolute;
+  left: 0;
+  top: calc(-1 * var(--grvsc-padding-top));
+  border-right: 0.15em solid currentColor;
+}
+
+.grvsc-container > code::after {
+  max-height: calc(100% - var(--grvsc-padding-bottom));
+  width: calc(var(--grvsc-padding-left) - 0.5em);
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: calc(-1 * var(--grvsc-padding-bottom));
+  border-right: 0.15em solid currentColor;
+}
+
+.grvsc-line {
+  position: relative;
+}
+
+.grvsc-line::before {
+  counter-increment: grvsc-line-counter;
+  content: counter(grvsc-line-counter);
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  height: 1.5em;
+  width: calc(var(--grvsc-padding-left) - 0.5em);
+  text-align: right;
+  display: inline-block;
+
+  padding-right: 0.5em;
+
+  border-right: 0.15em solid currentColor;
+
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}

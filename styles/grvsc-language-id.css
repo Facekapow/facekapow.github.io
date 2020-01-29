@@ -1,0 +1,22 @@
+.grvsc-container {
+  position: relative;
+
+  --grvsc-padding-top: calc(2em + var(--grvsc-padding-v));
+}
+
+.grvsc-container::after {
+  position: absolute;
+  right: var(--grvsc-padding-right);
+  top: 0;
+  border-bottom-left-radius: var(--grvsc-border-radius);
+  border-bottom-right-radius: var(--grvsc-border-radius);
+  height: 2em;
+  padding: 0.25em 0.5em;
+  content: attr(data-language);
+  text-transform: uppercase;
+  color: #ecf0f1;
+  background-color: #3498db;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}

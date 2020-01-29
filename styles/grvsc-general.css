@@ -1,0 +1,20 @@
+.grvsc-container {
+  --grvsc-padding-v: 0.5em;
+  --grvsc-padding-top: var(--grvsc-padding-v);
+  --grvsc-padding-bottom: var(--grvsc-padding-v);
+  --grvsc-line-highlighted-background-color: #5a5a5a;
+  --grvsc-line-highlighted-border-color: #4d4d4d;
+  --grvsc-line-highlighted-border-width: 0.5em;
+}
+
+.grvsc-container, .grvsc-container > code {
+  font-family: 'Fira Code', monospace;
+  line-height: 1.5em;
+}
+
+:not(pre) > code {
+  background-color: #1a1a1a;
+  color: #ecf0f1;
+  padding: 0.25em;
+  border-radius: var(--grvsc-border-radius);
+}

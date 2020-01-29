@@ -1,0 +1,35 @@
+blockquote, div.block > blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 1.25rem;
+  padding-right: 0;
+  padding-top: 0;
+  margin-bottom: 1.75rem;
+  font-size: 1.1em;
+  line-height: inherit;
+  color: #808080;
+  font-style: italic;
+  border-left: 0.5rem solid #000;
+}
+
+div.block.info > blockquote {
+  border-left-color: #3498db;
+  background-color: #a0cfee;
+  color: inherit;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 0.9em;
+  font-style: normal;
+}
+
+div.block.warn > blockquote {
+  border-left-color: #F1C40F;
+  background-color: #f8e287;
+  color: inherit;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 0.9em;
+  font-style: normal;
+}

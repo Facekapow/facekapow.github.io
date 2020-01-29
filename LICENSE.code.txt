@@ -1,14 +1,15 @@
-Personal Blog Source Code (C) by Ariel Abreu
----
+Parts of the source are
+  Copyright (c) 2015 gatsbyjs
+and parts are
+  Copyright (c) 2020 Ariel Abreu
 
-The blog's source code is licensed under the MIT license.
-
 ---
-The following section contains the full legal code of the MIT license:
+Both authors have licensed the work under the MIT license. The full license text follows:
 ---
 
 MIT License
 
+Copyright (c) 2015 gatsbyjs
 Copyright (c) 2020 Ariel Abreu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

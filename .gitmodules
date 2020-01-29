@@ -1,0 +1,3 @@
+[submodule "vscode-extensions/gerane.VSCodeThemes"]
+	path = vscode-extensions/gerane.VSCodeThemes
+	url = https://github.com/gerane/VSCodeThemes
