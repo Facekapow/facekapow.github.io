@@ -4,6 +4,8 @@ import "typeface-merriweather"
 import "typeface-fira-code"
 
 import "./styles/blocks.css"
+import "./styles/figures.css"
+import "./styles/horizontal-lines.css"
 
 import "gatsby-remark-vscode/styles.css"
 import "./styles/grvsc-general.css"

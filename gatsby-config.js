@@ -31,6 +31,10 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-captions`,
+            options: {},
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,

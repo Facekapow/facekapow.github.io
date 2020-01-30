@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-remark-captions",
+  "version": "1.0.0",
+  "description": "A Gatsby Remark plugin to easily add captions to images in Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "keywords": [
+    "gatsby",
+    "remark",
+    "plugin",
+    "caption",
+    "figure",
+    "image",
+    "markdown"
+  ],
+  "author": "Ariel Abreu <facekapow@outlook.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
