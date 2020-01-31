@@ -1,4 +1,4 @@
-blockquote, div.block > blockquote {
+blockquote {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -14,7 +14,7 @@ blockquote, div.block > blockquote {
   border-left: 0.5rem solid #000;
 }
 
-div.block.info > blockquote {
+blockquote.info {
   border-left-color: #3498db;
   background-color: #a0cfee;
   color: inherit;
@@ -24,7 +24,7 @@ div.block.info > blockquote {
   font-style: normal;
 }
 
-div.block.warn > blockquote {
+blockquote.warn {
   border-left-color: #F1C40F;
   background-color: #f8e287;
   color: inherit;

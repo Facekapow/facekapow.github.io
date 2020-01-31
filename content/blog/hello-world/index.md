@@ -34,22 +34,16 @@ int main() {
 };
 ```
 
-<div class="block info">
-
+>{.info}
 > Here's some important information.
 >
 > Did you know that I like hot dogs? That's right: I. Like. **Hot dogs**.
 
-</div>
-
-<div class="block warn">
-
+>{.warn}
 > Danger, Will Robinson! These kinds of blocks inform you of something
 > you should be careful with.
 >
 > This one is just warning you about these blocks.
-
-</div>
 
 > This is a regular blockquote.
 >

@@ -22,7 +22,6 @@ module.exports = ({ markdownAST }, options) => {
             )
           )
         ) {
-          console.log('found captioned image!')
           const firstText = firstChild.value.substr(1)
           const secondToLastText = secondToLastChild.value.substr(0, secondToLastChild.value.length - 1)
           let text = firstText

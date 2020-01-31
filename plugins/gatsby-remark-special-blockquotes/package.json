@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-remark-special-blockquotes",
+  "version": "1.0.0",
+  "description": "A Gatsby Remark plugin to give you augmented blockquote powers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "keywords": [
+    "gatsby",
+    "remark",
+    "special",
+    "blockquotes",
+    "augment",
+    "custom"
+  ],
+  "author": "Ariel Abreu <facekapow@outlook.com>",
+  "license": "MIT"
+}

@@ -30,10 +30,8 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          {
-            resolve: `gatsby-remark-captions`,
-            options: {},
-          },
+          `gatsby-remark-captions`,
+          `gatsby-remark-special-blockquotes`,
           {
             resolve: `gatsby-remark-images`,
             options: {
