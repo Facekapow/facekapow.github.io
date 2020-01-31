@@ -88,7 +88,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: join(__dirname, `content`, `assets`, `blog-icon.png`),
+        icon: join(__dirname, `content`, `assets`, `stuff-and-things.png`),
       },
     },
     `gatsby-plugin-react-helmet`,
