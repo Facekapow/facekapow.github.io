@@ -15,6 +15,7 @@ jobs:
         uses: textbook/git-checkout-submodule-action@2.0.0
       - name: Add Google Domain Verification file
         run: |
+          git fetch origin google-file
           git --work-tree=static checkout google-file -- .
       - name: Build Gatsby site
         uses: enriikke/gatsby-gh-pages-action@v2
