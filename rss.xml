@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Stuff & Things - A Blog]]></title><description><![CDATA[My personal blog about stuff and things]]></description><link>https://facekapow.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Feb 2020 00:19:36 GMT</lastBuildDate><item><title><![CDATA[Hello, world!]]></title><description><![CDATA[Hi there! This is my first blog post on my new personal blog: Stuff & Things. My blog is basically about whatever’s on my mind at the time…]]></description><link>https://facekapow.github.io/hello-world/</link><guid isPermaLink="false">https://facekapow.github.io/hello-world/</guid><pubDate>Thu, 30 Jan 2020 02:56:24 GMT</pubDate><content:encoded>&lt;p&gt;Hi there! This is my first blog post on my new personal blog: Stuff &amp;#x26; Things.&lt;/p&gt;
+&lt;p&gt;My blog is basically about whatever’s on my mind at the time. Usually—like maybe 95% of the time—I’m writing
+about computers, software, or programming. Sometimes, though, I like to go on a little rant about whatever’s getting
+on my nerves that particular day.&lt;/p&gt;
+&lt;p&gt;For now there’s nothing to really see here, unless you want to look at this cool picture of a lion cub I found:&lt;/p&gt;
+&lt;figure&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f03631be4410efc5a7cf47b269775269/72e01/lion-cub.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.69921875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAFoVwZhq//EABkQAAMAAwAAAAAAAAAAAAAAAAABERAxQf/aAAgBAQABBQKlwnTmz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABUQAQEAAAAAAAAAAAAAAAAAABAR/9oACAEBAAY/Amv/xAAaEAADAQADAAAAAAAAAAAAAAAAAREhMVFx/9oACAEBAAE/IfRbG3dgxE3VhNOujfLT/9oADAMBAAIAAwAAABBXP//EABYRAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAwEBPxBwf//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8Qiwh//8QAGxAAAgMBAQEAAAAAAAAAAAAAAREAITFBcVH/2gAIAQEAAT8QygHpgAoUBseI3sMFgI7F0jryUGCvs//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;A lion cub&quot;
+        title=&quot;A lion cub&quot;
+        src=&quot;/static/f03631be4410efc5a7cf47b269775269/1c72d/lion-cub.jpg&quot;
+        srcset=&quot;/static/f03631be4410efc5a7cf47b269775269/a80bd/lion-cub.jpg 148w,
+/static/f03631be4410efc5a7cf47b269775269/1c91a/lion-cub.jpg 295w,
+/static/f03631be4410efc5a7cf47b269775269/1c72d/lion-cub.jpg 590w,
+/static/f03631be4410efc5a7cf47b269775269/a8a14/lion-cub.jpg 885w,
+/static/f03631be4410efc5a7cf47b269775269/72e01/lion-cub.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;figcaption&gt;A lion cub, by gmacfadyen on Flickr&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;I’m basically going to use the rest of this post to test out some of the styles I have so… here I go:&lt;/p&gt;
+&lt;pre class=&quot;grvsc-container brogrammer&quot; data-language=&quot;js&quot; data-index=&quot;0&quot;&gt;&lt;code class=&quot;grvsc-code&quot;&gt;&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk6&quot;&gt;let&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk14&quot;&gt;thisIs&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk5 mtkb&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk12&quot;&gt;&amp;#39;some javascript&amp;#39;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk3 mtki&quot;&gt;// alright everyone, get the &amp;quot;what is &amp;#96;this&amp;#96;?&amp;quot; jokes out of your&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk3 mtki&quot;&gt;// system now and let&amp;#39;s get this over with&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;grvsc-container brogrammer&quot; data-language=&quot;cpp&quot; data-index=&quot;1&quot;&gt;&lt;code class=&quot;grvsc-code&quot;&gt;&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk5 mtkb&quot;&gt;#include&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk12&quot;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk6&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk9&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;() {&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk3 mtki&quot;&gt;  // look! the next line is highlighted because it&amp;#39;s important!&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line grvsc-line-highlighted&quot;&gt;&lt;span class=&quot;mtk1&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;mtk9&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;::cout &lt;/span&gt;&lt;span class=&quot;mtk5 mtkb&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk12&quot;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk5 mtkb&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk9&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;::endl;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk1&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;mtk5 mtkb&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mtk4&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;mtk1&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;grvsc-line&quot;&gt;&lt;span class=&quot;mtk1&quot;&gt;};&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote class=&quot;info&quot;&gt;
+&lt;p&gt;Here’s some important information.&lt;/p&gt;
+&lt;p&gt;Did you know that I like hot dogs? That’s right: I. Like. &lt;strong&gt;Hot dogs&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;warn&quot;&gt;
+&lt;p&gt;Danger, Will Robinson! These kinds of blocks inform you of something
+you should be careful with.&lt;/p&gt;
+&lt;p&gt;This one is just warning you about these blocks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a regular blockquote.&lt;/p&gt;
+&lt;p&gt;Cool, huh?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;This is&lt;/li&gt;
+&lt;li&gt;A bulleted&lt;/li&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hi.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;And this&lt;/li&gt;
+&lt;li&gt;Is a&lt;/li&gt;
+&lt;li&gt;Numbered list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Note that I had to add content to separate the two lists, because otherwise Remark.js will interpret the second list as a continuation of the first.&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  
+  .brogrammer {
+    background-color: #1a1a1a;
+    color: #ecf0f1;
+  }
+  .brogrammer .mtki { font-style: italic; }
+  .brogrammer .mtkb { font-weight: bold; }
+  .brogrammer .mtk6 { color: #3498DB; }
+  .brogrammer .mtk1 { color: #ECF0F1; }
+  .brogrammer .mtk14 { color: #E67E22; }
+  .brogrammer .mtk5 { color: #E74C3C; }
+  .brogrammer .mtk12 { color: #F1C40F; }
+  .brogrammer .mtk3 { color: #606060; }
+  .brogrammer .mtk9 { color: #2ECC71; }
+  .brogrammer .mtk4 { color: #6C71C4; }
+&lt;/style&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;  &lt;a href=&quot;https://www.flickr.com/photos/63025571@N07/31199100604&quot;&gt;“7M1A5830”&lt;/a&gt; by &lt;a href=&quot;https://www.flickr.com/photos/63025571@N07&quot;&gt;gmacfadyen&lt;/a&gt; is licensed under CC BY-NC-ND 2.0&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item></channel></rss>
